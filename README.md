@@ -16,62 +16,36 @@ Facebook is a social networking site that makes it easy for you to connect and s
 
 **To accomplish this, we have to complete all the activities listed below:**
 
-Define problem/ Problem understanding
+1. Define problem/ Problem understanding
+>     Specify the business problem
+>     Business impact 
 
-Specify the business problem
+2. Test case Preparation
 
-Business impact 
+>    Analyze requirements
 
- Test case Preparation
+>    Create the Scenario's and Collect the input data
 
-Analyze requirements
+>    Preparation of Test cases
 
-Create the Scenario's and Collect the input data
+>    Test data preparation (in the form of Validation Table) as per baseline document
 
-Preparation of Test cases
+3. Script /Test case Execution under test suite and test suite collection level 
 
-Test data preparation (in the form of Validation Table) as per baseline document
+4. Handling  and Validating buttons
 
-Script /Test case Execution under test suite and test suite collection level 
+5. Test listeners
 
-Handling  and Validating buttons
+6. Build delivery
 
-Test listeners
+>    Integrating katalon to git and jenkins
 
-Build delivery
-
-Integrating katalon to git and jenkins
-
-Cross-browser testing using TestCloud
-
-Generating and Analyzing report and Sending report through email.
+7. Cross-browser testing using TestCloud
 
 
 
 
-Prior Knowledge:
-
- You must  have prior knowledge of following topics to complete this project.
-
-Software testing concepts
-
-STLC
-
-Manual Testing
-
-Automation Testing
-
-Software Automation process and tools 
-
-Automation testing process
-
-Classification of  automation testing tools
-
-Difference between Manual and Automation testing
-
-Advantages and need of automation testing tools
-
-Project  Structure:
+_**Project  Structure:**___
 
 Create the Project folder which contains files as shown below:
 ![image](https://github.com/user-attachments/assets/b4dda3ba-d07e-42d9-a8b4-db17bd4a38a6)
